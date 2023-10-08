@@ -1,0 +1,31 @@
+{
+  "name": "campus-connekt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Campus-Konnect/Backend.git"
+  },
+  "author": "Dualsysco R&D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Campus-Konnect/Backend/issues"
+  },
+  "homepage": "https://github.com/Campus-Konnect/Backend#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "formidable": "^2.0.1",
+    "joi": "^17.6.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15"
+  }
+}
